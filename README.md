@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijolouis01&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Vijo's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijolouis01&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijolouis01&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijolouis01&layout=compact&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
