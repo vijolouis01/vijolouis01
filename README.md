@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vijolouis"><img src="https://img.shields.io/badge/LinkedIn-vijolouis-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/vijolouis01"><img src="https://img.shields.io/badge/GitHub-vijolouis01-black?style=flat&logo=github" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=vijolouis&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vijolouis01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
