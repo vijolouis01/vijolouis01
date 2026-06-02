@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijo L</h1>
+<h1 align="center">Hi 👋, I'm Vijo Louis</h1>
 <h3 align="center">Python Backend Developer · FastAPI · Django · DRF</h3>
 
 <p align="center">
