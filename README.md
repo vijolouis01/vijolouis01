@@ -50,12 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijolouis01&show_icons=true&hide_border=true&count_private=true" height="90" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijolouis01&layout=compact&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijolouis01&show_icons=true&hide_border=true&count_private=true&theme=dark" height="90" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijolouis01&layout=compact&hide_border=true&langs_count=6&theme=dark" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijolouis01&hide_border=true&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijolouis01&hide_border=true&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
