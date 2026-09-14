@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer · FastAPI · Django · DRF</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vijolouis"><img src="https://img.shields.io/badge/LinkedIn-vijolouis-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/vijolouis01"><img src="https://img.shields.io/badge/LinkedIn-vijolouis01-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/vijolouis01"><img src="https://img.shields.io/badge/GitHub-vijolouis01-black?style=flat&logo=github" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=vijolouis01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
@@ -16,7 +16,7 @@
 - 🗄️ Experienced with **PostgreSQL, MySQL, Redis, and Celery**
 - 🌍 Open to opportunities in **Chennai · Bangalore · Kochi · Trivandrum · Hyderabad**
 - 🔍 Focused on building clean, scalable, and well-documented REST APIs
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/vijolouis01)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vijolouis01)
 
 ---
 
@@ -50,12 +50,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijolouis01&show_icons=true&hide_border=true&count_private=true" height="90" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijolouis01&layout=compact&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijolouis01&show_icons=true&hide_border=true&count_private=true&theme=dark" height="90" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijolouis01&layout=compact&hide_border=true&langs_count=6&theme=dark" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijolouis01&hide_border=true&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijolouis01&hide_border=true&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -72,10 +72,10 @@
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/vijolouis" target="_blank">
+  <a href="https://www.linkedin.com/in/vijolouis01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vijolouis11@email.com">
+  <a href="mailto:vijolouis11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
